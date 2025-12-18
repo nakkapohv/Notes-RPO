@@ -1,3 +1,7 @@
+	#Код
+Для целого числа , _возвращается, если_ _—_ `x``true``x`_**Палиндром**__, и_ _не только_.`false`
+
+
 ```` Python
 class Solution:
     def isPalindrome(self, x: int) -> bool:
