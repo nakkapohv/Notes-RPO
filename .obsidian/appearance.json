@@ -1,1 +1,6 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#00ffb3",
+  "textFontFamily": "Times New Roman",
+  "baseFontSize": 24
+}
